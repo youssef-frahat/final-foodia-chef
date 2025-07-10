@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691353106685",
+    "project_id": "nnnnn-85af4",
+    "storage_bucket": "nnnnn-85af4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691353106685:android:6429eed28d59e1d65b6694",
+        "android_client_info": {
+          "package_name": "com.example.foodia_chef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSC2AjNg_yhLqUOGT2WMi9WnyQXEuu2Co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
